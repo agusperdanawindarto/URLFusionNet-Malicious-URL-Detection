@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use URLFusionNet experimental code or results, please cite this research software and the associated paper when available."
+title: "URLFusionNet: Adaptive Multi-Scale Character-Token Fusion for Multiclass Malicious URL Detection — Experimental Code and Results"
+type: software
+authors:
+  - name: Yuhefizar
+  - given-names: Juanda Hakim
+    family-names: Lubis
+  - given-names: Mazlina Abdul
+    family-names: Majid
+  - given-names: Agus Perdana
+    family-names: Windarto
+  - given-names: Ronal
+    family-names: Watrianthos
+keywords:
+  - malicious URL detection
+  - character-token fusion
+  - gate stabilization
+  - multiclass classification
+  - convolutional neural networks

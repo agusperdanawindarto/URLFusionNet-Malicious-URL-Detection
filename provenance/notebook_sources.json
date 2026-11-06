@@ -1,0 +1,32 @@
+[
+  {
+    "file": "notebooks\\01_train_stabilization.ipynb",
+    "cells": 26,
+    "patches": 2,
+    "source": "URLFusionNet_IEEE_GATE_STABILIZATION_FINAL.ipynb"
+  },
+  {
+    "file": "notebooks\\02_fixed_average_comparison.ipynb",
+    "cells": 33,
+    "patches": 2,
+    "source": "URLFusionNet_FIXED_AVG_MULTI_SEED_CUDA_LINUX_FAST.ipynb"
+  },
+  {
+    "file": "notebooks\\03_results_and_figures_NO_TRAINING.ipynb",
+    "cells": 16,
+    "patches": 8,
+    "source": "URLFusionNet_IEEE_RESULTS_RESUME_NO_RETRAIN.ipynb"
+  },
+  {
+    "file": "notebooks\\historical\\04_original_adaptive_ablation.ipynb",
+    "cells": 29,
+    "patches": 0,
+    "source": "URLFusionNet_FINAL_ADAPTIVE_GATE_RUNNER.ipynb"
+  },
+  {
+    "file": "notebooks\\historical\\05_traditional_and_deep_baselines.ipynb",
+    "cells": 46,
+    "patches": 0,
+    "source": "URLFusionNet_Experiment_FULL_BASELINES_v2_WINDOWS.ipynb"
+  }
+]

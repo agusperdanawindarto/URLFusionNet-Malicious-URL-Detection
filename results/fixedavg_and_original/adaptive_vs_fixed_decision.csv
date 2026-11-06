@@ -1,0 +1,2 @@
+Adaptive_Macro_F1_Mean,Adaptive_Macro_F1_SD,FixedAvg_Macro_F1_Mean,FixedAvg_Macro_F1_SD,Mean_Delta,Mean_Delta_Percentage_Points,Adaptive_Wins_Seeds,Total_Seeds,Interpretation
+0.9614299281358395,0.024707953227756426,0.9754195251228931,0.0006979930084385258,-0.013989596987053599,-1.3989596987053599,1,3,"Adaptive fusion does not improve mean Macro-F1 or stability over fixed averaging. Position the adaptive gate primarily as an interpretable sample-dependent fusion mechanism, not as a source of superior average predictive performance."

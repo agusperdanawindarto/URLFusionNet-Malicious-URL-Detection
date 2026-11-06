@@ -1,0 +1,11 @@
+URLFusionNet IEEE consolidated actual evidence; all results read from persisted CSVs.
+Model selection: balanced_kl005 validation mean=0.977301.
+Stabilized Macro-F1: 0.977070 ± 0.001405.
+FixedAvg Macro-F1: 0.975420 ± 0.000698.
+Original adaptive CUDA Macro-F1: 0.961430 ± 0.024708.
+Stabilized minus FixedAvg: 0.001650 (absolute fraction).
+Gate collapsed seeds: 0/3.
+Data: 651191 raw, 641113 cleaned, 512890 train, 64111 validation, 64112 test.
+Limitations: prior test reuse; only n=3 seeds; no independently verified external transfer.
+Historical baselines, robustness and model efficiency were not remeasured on KL stabilized checkpoint.
+Notebook 'RESULTS_RESUME' never trains. 'TRAINING_RESUME_SAFE' is a separately preserved original for genuinely missing training.

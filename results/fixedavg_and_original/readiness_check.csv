@@ -1,0 +1,7 @@
+Requirement,Passed
+FixedAvg seeds completed,True
+No non-finite FixedAvg metrics,True
+Paired comparison has three seeds,True
+Mean/std comparison generated,True
+Decision table generated,True
+Paired figure generated,True

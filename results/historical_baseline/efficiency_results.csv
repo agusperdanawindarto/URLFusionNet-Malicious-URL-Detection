@@ -1,0 +1,2 @@
+Model,Parameters,Model_Size_MB,Inference_ms_per_URL,Throughput_URL_per_s,Latency_Sample_N
+URLFusionNet-Adaptive,1568102,6.212638854980469,0.42997140499937814,2325.736056799978,20000

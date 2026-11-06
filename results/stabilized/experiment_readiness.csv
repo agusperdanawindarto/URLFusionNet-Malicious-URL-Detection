@@ -1,0 +1,6 @@
+Requirement,Passed
+All six training configs,True
+Selection strictly uses validation,True
+Three selected test evaluations,True
+All selected scores finite,True
+All checkpoints present,True

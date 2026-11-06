@@ -1,0 +1,2 @@
+variant,Seed,Best_Epoch,Epochs_Ran,Val_Macro_F1,Val_Accuracy,Gate_Entropy,Alpha_Char_Mean,Alpha_Char_SD,Token_gt_0p9,Collapsed
+balanced_init,2025,3,5,0.9776018857955933,0.985447108745575,0.914175049442692,0.43922677636146545,0.15300795435905457,0.0,False
